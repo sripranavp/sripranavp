@@ -1,8 +1,10 @@
-# Hi there, I'm Sri Pranav! 👋
+# Hi 👋, I'm Sripranav
 
-I'm a passionate coder and tech explorer. I enjoy diving into the intricacies of Python, Java, and more. Open-source enthusiast and problem-solving aficionado.
+## Passionate Coder, Tech Explorer & Horology Enthusiast
 
-🌱 Currently learning: Machine Learning and Web Development.
-💬 Let's collaborate on projects and conquer coding challenges!
-📫  Reach me at: sripranav.xiib@gmail.com 
-Check out my latest projects below and let's code something amazing together! 🚀
+I'm a dedicated coder with a love for exploring the depths of **Python, IoT**, and beyond. As an **open-source enthusiast**, a **problem-solving aficionado**, and a **horology enthusiast**, I’m fascinated by the art and science of timekeeping alongside my passion for tech.
+
+- 🌱 Currently learning: **Machine Learning**. 
+- 💬 Let’s collaborate on projects and overcome coding challenges together!  
+- 📫 Reach me at: [sripranav.xiib@gmail.com](mailto:sripranav.xiib@gmail.com)  
+- 🚀 Check out my latest projects below—let’s code something amazing!
