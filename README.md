@@ -15,4 +15,5 @@ I'm a dedicated coder with a love for exploring the depths of **Python, IoT**, a
 
 [![Sripranav's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sripranavp&theme=radical)](https://github.com/sripranavp)
 
-[![Sripranav's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sripranavp&theme=react-dark)](https://github.com/sripranavp)
+
+
