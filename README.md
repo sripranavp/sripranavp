@@ -11,8 +11,6 @@ I'm a dedicated coder with a love for exploring the depths of **Python, IoT**, a
 
 [![Sripranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripranavp&show_icons=true&theme=radical)](https://github.com/sripranavp)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripranavp&layout=compact&theme=radical)](https://github.com/sripranavp)
-
 [![Sripranav's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sripranavp&theme=radical)](https://github.com/sripranavp)
 
 
